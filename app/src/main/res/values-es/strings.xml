@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Filosofía Examen</string>
+    <string name="hint1">Nombre</string>
+    <string name="topic1">Realismo vs Anti-realismo</string>
+    <string name="question1_intro">Las siguientes afirmaciones pertenecen al argumento de la infradeterminación para el antirrealismo:</string>
+    <string name="question1">1. Muchas teorías, un número indefinido de ellas, son compatibles e implican cualquier cuerpo dado de evidencia observable.</string>
+    <string name="truth">Cierto</string>
+    <string name="question2">2. Por lo tanto, la selección de una de esas teorías como verdadera o incluso probable está definitivamente justificada.</string>
+    <string name="falsity">Falso</string>
+    <string name="question3">3.¿Cuáles de estas afirmaciones pertenecen al argumento observacional / teórico contra el antirrealismo? [Elige tres]</string>
+    <string name="question3_checkbox1">Según el antirrealismo, aceptar una teoría no es comprometerse con la existencia de entidades teóricas (entidades que no se pueden observar).</string>
+    <string name="question3_checkbox2">Por lo tanto, si el antirrealismo es una interpretación plausible de las teorías científicas, entonces hay una forma plausible de distinguir lo observacional de lo teórico.</string>
+    <string name="question3_checkbox3">El antirrealismo implica una división de mentalidad por parte de los científicos: los científicos deberían creer en los electrones o lo que sea mientras estén inmersos en su trabajo científico, pero deberían volverse agnósticos sobre todo lo que no pueden observar una vez que abandonan sus laboratorios.</string>
+    <string name="question3_checkbox4">Pero no hay una manera plausible de distinguir observacional de teórica.</string>
+    <string name="topic2">Inducción</string>
+    <string name="question4">4. ¿Quién planteó el argumento contra la inducción que afirma que dado que las pruebas deductivas dan cuenta de lo que hacen los científicos no hay una buena solución para el problema de la inducción y todos los intentos de resolverlo son una mera petición de preguntas, un apriorismo o una regresión infinita?</string>
+    <string name="question4_radiobutton1">Lipton</string>
+    <string name="question4_radiobutton2">Popper</string>
+    <string name="question4_radiobutton3">Salmon</string>
+    <string name="question4_radiobutton4">Strawson</string>
+    <string name="question5_argument1">Si el deductivismo fuera cierto, entonces hay una explicación deductiva de la predicción racional.</string>
+    <string name="question5_argument2">Pero no hay una explicación deductivista de la predicción racional.</string>
+    <string name="question5_argument3">La predicción racional no es parte de lo que hacen los científicos.</string>
+    <string name="hint2">Ingrese la respuesta aquí</string>
+    <string name="topic3">Explicación</string>
+    <string name="question6">6. Si Hempel cree que algunas explicaciones científicas tienen la estructura de argumentos deductivos e inductivos, cuya conclusión es el evento a explicar, elija cuál es falso:</string>
+</resources>
